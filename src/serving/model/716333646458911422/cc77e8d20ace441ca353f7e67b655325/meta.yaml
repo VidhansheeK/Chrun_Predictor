@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vidhansheekakkar/Documents/Projects/ML_Project/mlruns/716333646458911422/cc77e8d20ace441ca353f7e67b655325/artifacts
+end_time: 1765392607828
+entry_point_name: ''
+experiment_id: '716333646458911422'
+lifecycle_stage: active
+run_id: cc77e8d20ace441ca353f7e67b655325
+run_name: calm-finch-852
+run_uuid: cc77e8d20ace441ca353f7e67b655325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765392605816
+status: 3
+tags: []
+user_id: vidhansheekakkar
